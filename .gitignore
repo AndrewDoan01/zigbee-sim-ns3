@@ -1,0 +1,25 @@
+# Ignore build directories
+build/
+bin/
+obj/
+
+# Ignore ns-3 build files
+ns-3/build/
+ns-3/bindings/
+
+# Ignore result/output files
+*.log
+*.txt
+*.csv
+results/
+output/
+
+# Ignore editor files
+*.swp
+*~
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
